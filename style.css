@@ -1,0 +1,11 @@
+.container {
+    margin-left: auto;
+}
+.jumbotron {
+    color: #97a4cd;
+}
+.jumbotron-fluid {
+    background-image: url(images/skating2.gif);
+    height: 1300px;
+    position: relative;
+}
